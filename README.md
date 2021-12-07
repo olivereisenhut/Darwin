@@ -6,4 +6,4 @@ To install, download the `darwin.itermcolors` file and import to the profiles co
 
 Preferences > Profiles > Desired Profile > Colors > Color Presets > Import...
 
-![screenshot](https://raw.githubusercontent.com/olivereisenhut/Darwin/master/img/screenshot.png)
+![screenshot](img/screenshot.png)
